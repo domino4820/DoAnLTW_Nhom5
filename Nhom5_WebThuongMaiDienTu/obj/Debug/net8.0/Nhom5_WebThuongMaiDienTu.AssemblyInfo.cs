@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nhom5_WebThuongMaiDienTu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5984849130ad634c00d37b52db40e555caf1a36c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nhom5_WebThuongMaiDienTu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nhom5_WebThuongMaiDienTu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

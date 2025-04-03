@@ -279,3 +279,4 @@ D:\Lap Trinh Web\Nhom5_WebThuongMaiDienTuSn\Nhom5_WebThuongMaiDienTu\obj\Debug\n
 D:\Lap Trinh Web\Nhom5_WebThuongMaiDienTuSn\Nhom5_WebThuongMaiDienTu\obj\Debug\net8.0\Nhom5_We.5AA4839E.Up2Date
 D:\Lap Trinh Web\Nhom5_WebThuongMaiDienTuSn\Nhom5_WebThuongMaiDienTu\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
 D:\Lap Trinh Web\Nhom5_WebThuongMaiDienTuSn\Nhom5_WebThuongMaiDienTu\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Lap Trinh Web\Nhom5_WebThuongMaiDienTuSn\Nhom5_WebThuongMaiDienTu\obj\Debug\net8.0\Nhom5_WebThuongMaiDienTu.sourcelink.json

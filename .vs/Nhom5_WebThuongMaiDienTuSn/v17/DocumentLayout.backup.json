@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|d:\\lap trinh web\\nhom5_webthuongmaidientusn\\nhom5_webthuongmaidientu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|solutionrelative:nhom5_webthuongmaidientu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|d:\\lap trinh web\\nhom5_webthuongmaidientusn\\nhom5_webthuongmaidientu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|solutionrelative:nhom5_webthuongmaidientu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|d:\\lap trinh web\\nhom5_webthuongmaidientusn\\nhom5_webthuongmaidientu\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|solutionrelative:nhom5_webthuongmaidientu\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|d:\\lap trinh web\\nhom5_webthuongmaidientusn\\nhom5_webthuongmaidientu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|solutionrelative:nhom5_webthuongmaidientu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|d:\\lap trinh web\\nhom5_webthuongmaidientusn\\nhom5_webthuongmaidientu\\areas\\admin\\views\\menus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|solutionrelative:nhom5_webthuongmaidientu\\areas\\admin\\views\\menus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|d:\\lap trinh web\\nhom5_webthuongmaidientusn\\nhom5_webthuongmaidientu\\areas\\admin\\views\\menus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|solutionrelative:nhom5_webthuongmaidientu\\areas\\admin\\views\\menus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|d:\\lap trinh web\\nhom5_webthuongmaidientusn\\nhom5_webthuongmaidientu\\areas\\admin\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|solutionrelative:nhom5_webthuongmaidientu\\areas\\admin\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|d:\\lap trinh web\\nhom5_webthuongmaidientusn\\nhom5_webthuongmaidientu\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|solutionrelative:nhom5_webthuongmaidientu\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|d:\\lap trinh web\\nhom5_webthuongmaidientusn\\nhom5_webthuongmaidientu\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|solutionrelative:nhom5_webthuongmaidientu\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|d:\\lap trinh web\\nhom5_webthuongmaidientusn\\nhom5_webthuongmaidientu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|solutionrelative:nhom5_webthuongmaidientu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A706095-D88D-429F-ABA5-01B88CE280F9}|test_mvc\\test_mvc.csproj|d:\\lap trinh web\\nhom5_webthuongmaidientusn\\test_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A706095-D88D-429F-ABA5-01B88CE280F9}|test_mvc\\test_mvc.csproj|solutionrelative:test_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|d:\\lap trinh web\\nhom5_webthuongmaidientusn\\nhom5_webthuongmaidientu\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|solutionrelative:nhom5_webthuongmaidientu\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|d:\\lap trinh web\\nhom5_webthuongmaidientusn\\nhom5_webthuongmaidientu\\models\\db\\onlineshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6372FA88-7F0E-412E-BC3F-24224014AC22}|Nhom5_WebThuongMaiDienTu\\Nhom5_WebThuongMaiDienTu.csproj|solutionrelative:nhom5_webthuongmaidientu\\models\\db\\onlineshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,141 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T13:31:16.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T13:30:00.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MenusController.cs",
-              "DocumentMoniker": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Controllers\\MenusController.cs",
-              "RelativeDocumentMoniker": "Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Controllers\\MenusController.cs",
-              "ToolTip": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Controllers\\MenusController.cs",
-              "RelativeToolTip": "Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Controllers\\MenusController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T13:16:55.905Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Nhom5_WebThuongMaiDienTu\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Nhom5_WebThuongMaiDienTu\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADsBAAAAAAAAAAAAAFYBAABmAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom5_WebThuongMaiDienTu\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Nhom5_WebThuongMaiDienTu\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T12:47:32.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T13:32:18.916Z",
+              "WhenOpened": "2025-04-03T09:59:27.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Views\\Menus\\Create.cshtml",
-              "RelativeDocumentMoniker": "Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Views\\Menus\\Create.cshtml",
-              "ToolTip": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Views\\Menus\\Create.cshtml",
-              "RelativeToolTip": "Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Views\\Menus\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T13:41:30.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Views\\Menus\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Views\\Menus\\Edit.cshtml",
-              "ToolTip": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Views\\Menus\\Edit.cshtml",
-              "RelativeToolTip": "Nhom5_WebThuongMaiDienTu\\Areas\\Admin\\Views\\Menus\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T13:46:18.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "Nhom5_WebThuongMaiDienTu\\ScaffoldingReadMe.txt",
-              "ToolTip": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "Nhom5_WebThuongMaiDienTu\\ScaffoldingReadMe.txt",
+              "Title": "OnlineShopContext.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Models\\Db\\OnlineShopContext.cs",
+              "RelativeDocumentMoniker": "Nhom5_WebThuongMaiDienTu\\Models\\Db\\OnlineShopContext.cs",
+              "ToolTip": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Models\\Db\\OnlineShopContext.cs",
+              "RelativeToolTip": "Nhom5_WebThuongMaiDienTu\\Models\\Db\\OnlineShopContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-04-02T13:10:51.214Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:53:41.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Program.cs",
-              "RelativeDocumentMoniker": "Nhom5_WebThuongMaiDienTu\\Program.cs",
-              "ToolTip": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Program.cs",
-              "RelativeToolTip": "Nhom5_WebThuongMaiDienTu\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Nhom5_WebThuongMaiDienTu\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\Nhom5_WebThuongMaiDienTu\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Nhom5_WebThuongMaiDienTu\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T13:05:31.58Z",
+              "WhenOpened": "2025-04-03T09:41:12.87Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\test_mvc\\Program.cs",
-              "RelativeDocumentMoniker": "test_mvc\\Program.cs",
-              "ToolTip": "D:\\Lap Trinh Web\\Nhom5_WebThuongMaiDienTuSn\\test_mvc\\Program.cs",
-              "RelativeToolTip": "test_mvc\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T13:05:12.416Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
